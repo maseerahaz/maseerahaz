@@ -10,7 +10,7 @@
 
 I am a **Mathematics** graduate with a curious mind and a deep passion for learning. I thrive on solving problems and turning complex data into clear insights. Every project I undertake is an opportunity to learn something new — whether it's mastering a Python library or experimenting with a fresh web layout.  
 
-💡 *Fun Fact:* I love puzzles and coding small interactive games in my free time — it keeps my problem-solving skills sharp!
+💡 *Fun Fact:* I love puzzles and solving sudoku in my free time — it keeps my problem-solving skills sharp!
 
 ---
 
