@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Maseerah Ali Zaidi</h1>
+<h1 align="center"> Hi, I'm Maseerah Ali Zaidi</h1>
 
 <p align="center">
   <em>Curious mathematics graduate passionate about data analytics and frontend development</em>
@@ -46,12 +46,12 @@ I am a **Mathematics** graduate with a curious mind and a deep passion for learn
 ## ✨ Motto
 
 *"Stay curious, stay passionate, keep building."*  
-
+I am learning and this process will never stop.
 Curiosity drives learning, passion fuels persistence, and building projects turns knowledge into real skills.
 
 ---
 
-## 🌟 Let’s Connect
+##  Let’s Connect
 
 <p align="left">
   <a href="https://github.com/maseerahaz" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"/></a>
