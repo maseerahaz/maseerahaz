@@ -17,7 +17,7 @@ I am a **Mathematics** graduate with a curious mind and a deep passion for learn
 ## 🎯 Currently Working On
 
 - 📚 **Google Data Analytics Professional Certificate** (Coursera)  
-- 📊 Building interactive dashboards with **Python**, **Pandas**, and **Matplotlib**  
+- 📊 Building interactive dashboards with **Python** and **Pandas** 
 - 🌐 Creating responsive web projects using **HTML5**, **CSS3**, and **JavaScript**  
 - 🎓 Preparing for **MCA admission** to deepen my computer science expertise  
 
@@ -28,9 +28,9 @@ I am a **Mathematics** graduate with a curious mind and a deep passion for learn
 | Category       | Tools & Technologies |
 |----------------|--------------------|
 | **Languages**  | Python 🐍, Java ☕ |
-| **Libraries**  | Pandas, NumPy, Matplotlib, Seaborn |
+| **Libraries**  | Pandas, NumPy |
 | **Frontend**   | HTML, CSS, JavaScript |
-| **Tools**      | VS Code, Git, Jupyter Notebook |
+| **Tools**      | VS Code, Git, Jupyter Notebook, SSMS |
 
 ---
 
@@ -60,15 +60,4 @@ Curiosity drives learning, passion fuels persistence, and building projects turn
 
 <!--
 **maseerahaz/maseerahaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
